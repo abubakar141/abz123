@@ -98,7 +98,7 @@ export default async function Hero() {
         Elevate Your Style 
       </h1>
        <p className="leading-7 [&:not(:first-child)]:mt-9 m-6">
-       Discover the perfect blend of quality and style with ABZ-COMMERCE. Explore our wide range of shoes,<br /> shirts, men's fashion, and watches designed to elevate your wardrobe effortlessly.
+     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse dolores ullam, provident eligendi, ducimus porro adipisci eaque dolore autem tempore sint perspiciatis temporibus non vero hic placeat consequatur laboriosam at?
        </p>
      <Button className="mt-9 px-8 m-4">
        <ShoppingBagIcon className="mr-2 h-4 w-4 " /> Start Shopping
